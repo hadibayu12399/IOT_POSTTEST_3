@@ -46,3 +46,7 @@ Komponen yang digunakan :
 - DHT11 : 1
 
 
+![Screenshot (15)](https://github.com/hadibayu12399/IOT_POSTTEST_3/assets/74283022/74ef91c3-0dc3-4165-8721-b944777faf92)
+
+
+![Screenshot (16)](https://github.com/hadibayu12399/IOT_POSTTEST_3/assets/74283022/a4789a5f-d68c-4a52-9130-00390b76409a)
