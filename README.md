@@ -21,18 +21,18 @@ Pembagian Tugas :
 
 [ Erman Parni Simanjuntak ]
 
-Membuat rangkaian 
+Membuat rangkaian publisher
 Codingan
 
 [ Muhammad Fajrianur ]
 
-Membuat rangkaian LED
+Membuat rangkaian subscriber
 Codingan
 
 [ Hadi Bayu Saputra ]
 
 Membuat Rekaman
-
+codingan
 
 Komponen yang digunakan :
 
